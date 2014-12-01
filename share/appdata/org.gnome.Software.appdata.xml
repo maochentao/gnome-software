@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <id type="desktop">org.gnome.Software.desktop</id>
+  <licence>CC0</licence>
+  <summary>Application manager for GNOME</summary>
+  <summary xml:lang="cs">Správa aplikací pro GNOME</summary>
+  <summary xml:lang="de">Anwendungsverwaltung für GNOME</summary>
+  <summary xml:lang="el">Ένας διαχειριστής εφαρμογών για το GNOME</summary>
+  <summary xml:lang="es">Gestor de aplicaciones para GNOME</summary>
+  <summary xml:lang="fi">Sovellusten hallinta Gnomelle</summary>
+  <summary xml:lang="gl">Xestor de aplicativos para GNOME</summary>
+  <summary xml:lang="hu">Alkalmazáskezelő a GNOME-hoz</summary>
+  <summary xml:lang="id">Manajer aplikasi bagi GNOME</summary>
+  <summary xml:lang="it">Gestore applicazioni per GNOME</summary>
+  <summary xml:lang="ko">그놈용 프로그램 관리자</summary>
+  <summary xml:lang="lv">GNOME lietotņu pārvaldnieks</summary>
+  <summary xml:lang="nb">Programhåndtering for GNOME</summary>
+  <summary xml:lang="pl">Menedżer programów dla środowiska GNOME</summary>
+  <summary xml:lang="pt_BR">Gerenciador de aplicativos para o GNOME</summary>
+  <summary xml:lang="sk">Správca aplikácií prostredia GNOME</summary>
+  <summary xml:lang="sl">Upravljalnik programov za GNOME</summary>
+  <summary xml:lang="sr">Гномов управник програма</summary>
+  <summary xml:lang="sr@latin">Gnomov upravnik programa</summary>
+  <summary xml:lang="zh_CN">GNOME 应用程序管理器</summary>
+  <summary xml:lang="zh_HK">GNOME 的應用程式管理員</summary>
+  <summary xml:lang="zh_TW">GNOME 的應用程式管理員</summary>
+  <description>
+    <p>Software allows you to find and install new applications and system extensions and remove existing installed applications.</p>
+    <p xml:lang="cs">Aplikace Software umožňuje vyhledávat a instalovat aplikace a systémová rozšíření a odebírat stávající nainstalované aplikace.</p>
+    <p xml:lang="de">Software ermöglicht es Ihnen, neue Anwendungen und Systemerweiterungen zu finden und zu installieren sowie bereits installierte Anwendungen zu entfernen.</p>
+    <p xml:lang="el">Το λογισμικό σας επιτρέπει να βρείτε και να εγκαταστήσετε νέες εφαρμογές και επεκτάσεις συστήματος και να αφαιρέσετε υπάρχουσες εγκατεστημένες εφαρμογές.</p>
+    <p xml:lang="es">Software le permite buscar e instalar aplicaciones nuevas y extensiones del sistema y quitar aplicaciones instaladas.</p>
+    <p xml:lang="ko">소프트웨어에서 새 프로그램과 시스템 확장을 찾아 설치할 수 있고, 기존에 설치한 프로그램을 제거할 수 있습니다.</p>
+    <p xml:lang="pt_BR">O aplicativo Software permite que você encontre e instale novos aplicativos e extensões do sistema, além de remover aplicativos já instalados.</p>
+    <p xml:lang="sk">Aplikácia Softvér vám umožňuje nájsť a nainštalovať nové aplikácie a systémové rozšírenia a odstrániť existujúce nainštalované aplikácie.</p>
+    <p xml:lang="sr">Програмко вам дозвољава да пронађете и инсталирате нове програме и системска проширења и да уклоните постојеће инсталиране програме.</p>
+    <p xml:lang="sr@latin">Programko vam dozvoljava da pronađete i instalirate nove programe i sistemska proširenja i da uklonite postojeće instalirane programe.</p>
+    <p xml:lang="zh_CN">“软件”允许您查找并安装新的应用程序和系统扩展，移除已安装的应用程序。</p>
+    <p xml:lang="zh_HK">「軟件」讓你可以找尋、安裝新程式與系統擴充套件，以及移除所安裝的應用程式。</p>
+    <p xml:lang="zh_TW">「軟體」讓您可以找尋、安裝新程式與系統擴充套件，以及移除所安裝的應用程式。</p>
+    <p>GNOME Software showcases featured and popular applications with useful descriptions and multiple screenshots per application. Applications can be found either through browsing the list of categories or by searching. It also allows you to update your system using an offline update.</p>
+    <p xml:lang="cs">Software GNOME vám představí významné a oblíbené aplikace pomocí srozumitelného popisu a několika snímků obrazovky. Aplikace můžete najít buď ručním procházení podle kategorií nebo pomocí textového vyhledávání. Rovněž můžete aktualizovat svůj systém a to i bez aktuálního připojení k Internetu.</p>
+    <p xml:lang="de">GNOME Software präsentiert vorgestellte und beliebte Anwendungen mit nützlichen Beschreibungen und mehreren Bildschirmfotos je Anwendung. Anwendungen können entweder durch Stöbern in den verschiedenen Kategorien oder mithilfe der Suchfunktion gefunden werden. Zudem ermöglicht es Ihnen, Ihr System mittels einer Offline-Aktualisierung auf den neuesten Stand zu bringen.</p>
+    <p xml:lang="el">Το λογισμικό GNOME προβάλλει χαρακτηριστικά και δημοφιλείς εφαρμογές με χρήσιμες περιγραφές και πολλαπλά στιγμιότυπα ανά εφαρμογή. Οι εφαρμογές μπορεί να βρεθούν είτε μέσα από περιήγηση της λίστας των κατηγοριών ή με αναζήτηση. Σας επιτρέπει επίσης να ενημερώσετε το σύστημά σας χρησιμοποιώντας μια ενημέρωση χωρίς σύνδεση.</p>
+    <p xml:lang="es">GNOME Software muestra aplicaciones destacadas y populares con descripciones útiles y varias capturas de pantalla para cada aplicación. Las aplicaciones se pueden encontrar a navegando por la lista de categorías o buscando. También le permite actualizar su sistema mediante una actualización en modo desconectado.</p>
+    <p xml:lang="ko">그놈 소프트웨어는 진열 화면 기능을 갖추고 도움 되는 설명과 여러가지 스크린샷을 갖춘 인기있는 프로그램을 보유합니다. 분류 목록을 탐색하거나 검색을 통해 프로그램을 찾을 수 있습니다. 오프라인 업데이트를 사용하여 시스템을 업데이트할 수도 있습니다.</p>
+    <p xml:lang="pt_BR">O GNOME Softwares mostra aplicativos populares em destaque com descrições úteis e múltiplas capturas de tela per aplicativo. Aplicativos podem ser encontradas tanto navegando a lista de categorias quanto pesquisando. Ele também permite que você atualize seu sistema usando uma atualização sem estar conectado a internet.</p>
+    <p xml:lang="sk">Softvér prostredia GNOME predstavuje populárne aplikácie a aplikácie základnej výbavy s užitočnými popismi a snímkami obrazovky danej aplikácie. Aplikácie sa dajú nájsť buď prezeraním zoznamu kategórií alebo pomocou vyhľadávača. Tiež umožňuje aktualizovať váš systém za pomoci aktualizácií nevyužívajúcich pripojenie k sieti.</p>
+    <p xml:lang="sr">Гномов Програмко приказује издвојене и популарне програме са корисним описима и неколико снимака екрана по програму. Програми могу бити пронађени прегледањем списка категорија или претрагом. Такође вам омогућава да доградите ваш систем користећи ван мрежно освежење.</p>
+    <p xml:lang="sr@latin">Gnomov Programko prikazuje izdvojene i popularne programe sa korisnim opisima i nekoliko snimaka ekrana po programu. Programi mogu biti pronađeni pregledanjem spiska kategorija ili pretragom. Takođe vam omogućava da dogradite vaš sistem koristeći van mrežno osveženje.</p>
+    <p xml:lang="zh_CN">GNOME 软件 向您展示特色和流行的应用程序，并提供每个应用程序的描述、截图等有用信息。您可以通过浏览分类列表或搜索来找到应用程序。您还可以用它离线更新您的系统。</p>
+    <p xml:lang="zh_HK">GNOME Software 陳列各種具有特色，以及廣受歡迎的應用程式，並附上有用的描述與多張螢幕擷圖。除了瀏覽類別清單之外，你還可以透過搜尋的方式來找出想要的應用程式。此外，它也可讓你採用離線更新的方式更新系統。</p>
+    <p xml:lang="zh_TW">GNOME Software 陳列各種具有特色，以及廣受歡迎的應用程式，並附上有用的描述與多張螢幕擷圖。除了瀏覽類別清單之外，您還可以透過搜尋的方式來找出想要的應用程式。此外，它也可讓您採用離線更新的方式更新系統。</p>
+  </description>
+  <screenshots>
+    <screenshot width="1200" type="default" height="675">https://git.gnome.org/browse/gnome-software/plain/data/appdata/ss-overview.png</screenshot>
+    <screenshot width="1200" height="675">https://git.gnome.org/browse/gnome-software/plain/data/appdata/ss-details.png</screenshot>
+    <screenshot width="1200" height="675">https://git.gnome.org/browse/gnome-software/plain/data/appdata/ss-installed.png</screenshot>
+    <screenshot width="1200" height="675">https://git.gnome.org/browse/gnome-software/plain/data/appdata/ss-updates.png</screenshot>
+    <screenshot width="1200" height="675">https://git.gnome.org/browse/gnome-software/plain/data/appdata/ss-updates-details.png</screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Design/Apps/Software</url>
+  <updatecontact>richard_at_hughsie.com</updatecontact>
+  <compulsory_for_desktop>GNOME</compulsory_for_desktop>
+</application>

@@ -1,0 +1,29 @@
+<schemalist>
+  <schema id="org.gnome.software" path="/org/gnome/software/" gettext-domain="gnome-software">
+    <key name="compatible-projects" type="as">
+      <default>['GNOME', 'KDE', 'XFCE']</default>
+      <summary>A list of compatible projects</summary>
+      <description>This is a list of compatible projects we should show such as GNOME, KDE and XFCE.</description>
+    </key>
+    <key name="require-appdata" type="b">
+      <default>false</default>
+      <summary>Applications require AppData to be shown in the search results</summary>
+      <description>If enabled applications require a long description before they are shown to the user in the search results.</description>
+    </key>
+    <key name="check-timestamp" type="x">
+      <default>0</default>
+      <summary>The last update check timestamp</summary>
+    </key>
+    <key name="install-timestamp" type="x">
+      <default>0</default>
+      <summary>The last update timestamp</summary>
+    </key>
+    <key name="app-folders" type="a{sas}">
+      <default>{}</default>
+      <summary>Application folders. Maps folder ids to lists of
+      application ids. If the folder id is of the form 'Name.directory',
+      users are expected to look for a translated name in the file
+      of the same name in the XDG_DATA_DIRS/desktop-directories.</summary>
+    </key>
+  </schema>
+</schemalist>
